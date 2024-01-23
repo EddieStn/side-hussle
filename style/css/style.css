@@ -4,8 +4,9 @@ body {
     box-sizing: border-box;
 }
 
+
 .footer {
-    background-color: #f8f9fa;
+    background-color: #80a8cf;
     padding: 20px;
     text-align: center;
     position: relative;
@@ -30,4 +31,10 @@ body {
     /* Just for visualizing the items */
     text-align: center;
     padding: 10px;
+}
+
+/* QUOTE PAGE */
+
+.form-container {
+    max-width: 500px;
 }
